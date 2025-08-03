@@ -536,9 +536,9 @@ footer p {
         margin-bottom: 50px;
     }
     
-    .hero-image {
-        margin-top: 50px;
-    }
+   .hero-image {
+    visibility: hidden;
+}
 }
 
 @media (max-width: 768px) {
@@ -596,4 +596,5 @@ footer p {
     .portfolio-grid {
         grid-template-columns: 1fr;
     }
+
 }
