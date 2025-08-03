@@ -537,7 +537,7 @@ footer p {
     }
     
    .hero-image {
-    visibility: hidden;
+    display: none;
 }
 }
 
@@ -598,3 +598,4 @@ footer p {
     }
 
 }
+
